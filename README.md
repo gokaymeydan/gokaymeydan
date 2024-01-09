@@ -1,22 +1,31 @@
-# Hi, I'm Gökay! 👋
-I'm trying to improve myself in data science. My goal in data science is to become proficient in machine learning algorithms and techniques, applying them to solve real-world problems in various domains.
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## Tools
-- 💻 Python
-- 🛢️ SQL, R
+###
 
-## What I'm Currently Working On
-- 📚 Learning new technologies to constantly improve myself
-- 🌱 Developing personal projects
-- 👨‍💻 Contributing to Open Source
+<p align="left">My name is Gökay, from Austria. I'm trying to improve myself in data science.</p>
 
-## Get in Touch
-If you'd like to collaborate on a project or just say hi, feel free to reach out:
-- 📧 Email: meygokay@icloud.com
+###
 
-## Statistics
-![Gokay Meydan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokaymeydan&show_icons=true&theme=dark)
+<h2 align="left">About me</h2>
 
+###
 
-![](https://komarev.com/ghpvc/?username=gokaymeydan)
+<p align="left">✨ Creating bugs since 2024<br><br>📚 I'm currently learning everything about data.<br><br>🎯 My goal is to become proficient in machine learning algorithms and techniques, applying them to solve real-world problems in various domains.</p>
 
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+</div>
+
+###
